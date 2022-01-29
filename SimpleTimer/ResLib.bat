@@ -1,0 +1,1 @@
+brcc32.exe "C:\coding\Delphi\SimpleTimer\resources.rc"
